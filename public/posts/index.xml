@@ -2,19 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Eiram&#39;s Virtue</title>
-    <link>https://eiramsvirtue.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Eiram&#39;s Virtue</description>
-    <generator>Hugo -- 0.129.0</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Nov 2024 04:05:27 +0000</lastBuildDate>
-    <atom:link href="https://eiramsvirtue.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Home</title>
-      <link>https://eiramsvirtue.com/posts/home/</link>
+      <link>http://localhost:1313/posts/home/</link>
       <pubDate>Sat, 30 Nov 2024 04:05:27 +0000</pubDate>
-      <guid>https://eiramsvirtue.com/posts/home/</guid>
-      <description>Who are we? Eiram&amp;rsquo;s Virtue Cantina is located on Eirie in the Eiram system in the Outer Rim of the Galaxy. Since the fall of the Empire, it has been a moderately successful hub of Force relic trade. However it is best known as a waystation for those traveling between the Outer Rim and Mid Rim.
-Pazaak Bring your side deck, or rent one from the cantina. Side decks can contain only 10 cards.</description>
+      <guid>http://localhost:1313/posts/home/</guid>
+      <description>&lt;h2 id=&#34;who-are-we&#34;&gt;Who are we?&lt;/h2&gt;
+&lt;p&gt;Eiram&amp;rsquo;s Virtue Cantina is located on Eirie in the Eiram system in the Outer Rim of the Galaxy. Since the fall of the Empire, it has been a moderately successful hub of Force relic trade. However it is best known as a waystation for those traveling between the Outer Rim and Mid Rim.&lt;/p&gt;
+&lt;h3 id=&#34;pazaak&#34;&gt;Pazaak&lt;/h3&gt;
+&lt;p&gt;Bring your side deck, or rent one from the cantina.  Side decks can contain only 10 cards.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
