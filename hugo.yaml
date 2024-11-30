@@ -1,0 +1,6 @@
+baseURL: 'https://eiramsvirtue.com/'
+languageCode: en-us
+title: Eiram's Virtue
+#theme: ananke
+theme: papermod
+# theme: bootstrap
