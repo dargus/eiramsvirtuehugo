@@ -2,4 +2,4 @@
 *.bak
 .hugo_build.lock
 .obsidian/
-public/s
+public/
